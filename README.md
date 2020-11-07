@@ -1,5 +1,5 @@
 # Classification-Problems
-Using Machine Learning Algorithms
+Using Machine Learning Algorithm
 
 #MINI PROJECT
 ##Recipe Dataset Classification
